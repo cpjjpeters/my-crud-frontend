@@ -1,5 +1,7 @@
 # https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot
 
+not ok on 10/07
+
 ---
 
 # Getting Started with Create React App
